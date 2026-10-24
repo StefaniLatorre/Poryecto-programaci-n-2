@@ -1,5 +1,5 @@
 # Poryecto-programaci-nn-2
-Proyecto colaborativo para analizar el impacto del trabajo en la salud mental.
+Limpieza de base de datos del juego FIFA 21 
 
 Integrantes:
 *Stefani Zharev Latorre Espinosa
