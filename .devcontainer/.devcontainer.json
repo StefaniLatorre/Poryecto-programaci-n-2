@@ -11,5 +11,5 @@
     }
   },
 
-  "postCreateCommand": "pip install --upgrade pip && git config --global pull.rebase false && git config --global init.defaultBranch main"
+  "postCreateCommand": "pip install --upgrade pip pandas numpy matplotlib scikit-learn && git config --global pull.rebase false && git config --global init.defaultBranch main"
 }
